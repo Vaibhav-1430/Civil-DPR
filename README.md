@@ -292,6 +292,7 @@ This repository currently does not include a license file.
 - GitHub: [@Vaibhav-1430](https://github.com/Vaibhav-1430)
 - Project Repository: [Civil-DPR](https://github.com/Vaibhav-1430/Civil-DPR)
 - Business/Collaboration Inquiries: your-email@domain.com
+- Download Civil DPR App: [Download App](https://getmyapp11.netlify.app/download/CivilDpr.apk)
 
 ---
 
