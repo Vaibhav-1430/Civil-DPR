@@ -1,0 +1,4 @@
+Running Gradle task 'assembleRelease'...                        
+Picked up JAVA_TOOL_OPTIONS: -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8
+Running Gradle task 'assembleRelease'...                          114.7s
+√ Built build\app\outputs\flutter-apk\app-release.apk (58.7MB)

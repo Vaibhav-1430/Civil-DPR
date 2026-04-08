@@ -1,0 +1,7 @@
+Analyzing civil_dpr...                                          
+
+   info - The local variable '_parseDate' starts with an underscore - lib\core\models\dpr_model.dart:204:14 - no_leading_underscores_for_local_identifiers
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\dpr\screens\dpr_list_screen.dart:382:37 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\dpr\screens\dpr_list_screen.dart:414:37 - use_build_context_synchronously
+
+3 issues found. (ran in 7.9s)

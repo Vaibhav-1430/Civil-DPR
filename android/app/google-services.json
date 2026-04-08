@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "602206536180",
+    "project_id": "civildpr-5972c",
+    "storage_bucket": "civildpr-5972c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602206536180:android:ec0275987299d3ca6139a1",
+        "android_client_info": {
+          "package_name": "com.example.civil_dpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602206536180-i2te5h4e2trgocb052stsa2vks7lbg5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civil_dpr",
+            "certificate_hash": "2b4642cc8548cb786a5c8ab223a586e162fa2d1b"
+          }
+        },
+        {
+          "client_id": "602206536180-qljlr4luir4nq1e7sddgmhralt9m0930.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOTSTYg-eJvljCknuyEir5C8Hckjl78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602206536180-qljlr4luir4nq1e7sddgmhralt9m0930.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602206536180-701ic1l8r2c5vafkf7ckq5cfa0hidcoc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.civilDpr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
